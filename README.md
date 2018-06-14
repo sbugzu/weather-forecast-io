@@ -5,10 +5,10 @@ weather alert then the widget changes to show an alert icon with the severe aler
 
 # Install
 Download the latest version from [Release](/releases), then
-'''
+```shell
 unzip weather-forecast-io.widget.zip
 mv weather-forecast-io.widget $HOME/Library/Application\ Support/Übersicht/widgets/
-'''
+```
 
 Edit the index.coffee and review/modify the following items:
 1) The "iconSet" variable on the first line. This is the main weather icon that is displayed. Take a look at the folders in the "images" folder and decide
@@ -42,6 +42,6 @@ If you want to build your own icon set from other icons make sure to name them w
 
 # Screenshot
 
+![Screenshot_ ICON](/screenshot_icon.png?raw=true)
 ![Screenshot_text](/screenshot.png?raw=true)
-![Screenshot ICON](/screenshot_icon.png?raw=true)
 ![Screenshot_alert](/alert.png?raw=true)
