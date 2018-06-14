@@ -4,7 +4,7 @@ conditions and forecast for the next 3 days and displays them as in the 1st scre
 weather alert then the widget changes to show an alert icon with the severe alert details/description as seen in the 2nd screenshot below.
 
 # Install
-Download the latest version from [Release](/releases), then
+Download the latest version from [Release](https://github.com/sbugzu/weather-forecast-io/releases), then
 ```shell
 unzip weather-forecast-io.widget.zip
 mv weather-forecast-io.widget $HOME/Library/Application\ Support/Übersicht/widgets/
