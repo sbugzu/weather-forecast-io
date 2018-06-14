@@ -4,6 +4,12 @@ conditions and forecast for the next 3 days and displays them as in the 1st scre
 weather alert then the widget changes to show an alert icon with the severe alert details/description as seen in the 2nd screenshot below.
 
 # Install
+Download the latest version from [Release](/releases), then
+'''
+unzip weather-forecast-io.widget.zip
+mv weather-forecast-io.widget $HOME/Library/Application\ Support/Übersicht/widgets/
+'''
+
 Edit the index.coffee and review/modify the following items:
 1) The "iconSet" variable on the first line. This is the main weather icon that is displayed. Take a look at the folders in the "images" folder and decide
 which you like best.
