@@ -36,6 +36,6 @@ If you want to build your own icon set from other icons make sure to name them w
 
 # Screenshot
 
-![Alt text](/screenshot.png?raw=true)
-
-![Alt text](/alert.png?raw=true)
+![Screenshot_text](/screenshot.png?raw=true)
+![Screenshot ICON](/screenshot_icon.png?raw=true)
+![Screenshot_alert](/alert.png?raw=true)
